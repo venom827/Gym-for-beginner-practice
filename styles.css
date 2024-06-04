@@ -17,10 +17,10 @@
     transition: background-color 0.5s ease 100ms ;
 }
 .small{
-    width: 275px;
+    width: 68%;
     margin: auto;
 }
 .big{
-    width: 320px;;
+    width: 85%;
     margin:auto;
 }
