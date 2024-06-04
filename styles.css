@@ -1,0 +1,28 @@
+.image{
+    background-image:url(bg.jpg);
+}
+.box{
+    background-color: rgb(157, 159, 160);
+    text-align: center;
+    color:white;
+    width:70%;
+    margin:auto;
+    padding: 10px;
+    overflow: hidden;
+}
+.box:hover{
+    background-color:rgb(121, 121, 117);
+    border: 5px;
+    border-color: aliceblue;
+    border-style:double;
+    transition: background-color 0.5s ease 100ms ;
+    overflow: hidden;
+}
+.small{
+    width: 68%;
+    margin: auto;
+}
+.big{
+    width: 85%;
+    margin:auto;
+}
