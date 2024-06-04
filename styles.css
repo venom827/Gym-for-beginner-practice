@@ -5,9 +5,16 @@
     background-color: rgb(157, 159, 160);
     text-align: center;
     color:white;
-    width:80%;
+    width:70%;
     margin:auto;
     padding: 10px;
+}
+.box:hover{
+    background-color:rgb(121, 121, 117);
+    border: 5px;
+    border-color: aliceblue;
+    border-style:double;
+    transition: background-color 0.5s ease 100ms ;
 }
 .small{
     width: 7cm;
