@@ -9,6 +9,8 @@
     margin:auto;
     padding: 10px;
     overflow: hidden;
+    display: flex;
+    font: aries sans;
 }
 .box:hover{
     background-color:rgb(121, 121, 117);
@@ -19,6 +21,7 @@
     transition: background-color 0.5s ease 100ms ;
     transition: width 1.2s ease 100ms ;
     overflow: hidden;
+    display: flex;
 }
 .small{
     width: 68%;
