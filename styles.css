@@ -10,7 +10,6 @@
     padding: 10px;
     overflow: hidden;
     display: flex;
-    font-family: Fantasy;
 }
 .box:hover{
     background-color:rgb(121, 121, 117);
@@ -22,7 +21,6 @@
     transition: width 1.2s ease 100ms ;
     overflow: hidden;
     display: flex;
-    font-family: Fantasy;
 }
 .small{
     width: 68%;
@@ -31,4 +29,7 @@
 .big{
     width: 85%;
     margin:auto;
+}
+p{
+   font:Fantasy;
 }
